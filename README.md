@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation](https://github.com/rafaballerini/abnerdavis/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/abnerdavis/abnerdavis/blob/output/github-contribution-grid-snake.svg)
 
 
 
