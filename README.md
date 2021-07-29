@@ -1,10 +1,12 @@
-### Coé cóe, Eu sou o Abner Davis !!
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B27C8&lines=Co%C3%A9+co%C3%A9%2C+Meu+nome+%C3%A9+Abner+Davis...;Bem-Vindo)](https://git.io/typing-svg)
+ 
 <div>
   <a href="https://github.com/abnerdavis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerdavis&theme=tokyonight&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerdavis&theme=tokyonight&show_icons=true"/>
+    
 </div>
-
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
  <div style="display: inline_block"><br>
   <img align="center" alt="Abner-Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Abner-Apache" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg">
@@ -14,21 +16,17 @@
   <img align="center" alt="Abner-Cucumber" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Abner-LinkedIn" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg">
 </div>
-
   
  <div> 
   <a href="https://instagram.com/_abnerdavis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.casttro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/abner-davis-de-castro-vieira-5887a61b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
+  <a href="https://www.linkedin.com/in/abner-davis-de-castro-vieira-5887a61b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    
-
-
-
-
-![Snake animation](https://github.com/AbnerDavis/AbnerDavis/blob/output/github-contribution-grid-snake.svg)
-
-
-
-</div>
+   
+   
+![Snake animation](https://github.com/AbnerDavis/AbnerDavis/blob/output/github-contribution-grid-snake.svg) 
+   
+   
+   
+   
+</div> 
