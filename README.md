@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B27C8&lines=Co%C3%A9+co%C3%A9%2C+Meu+nome+%C3%A9+Abner+Davis...;Bem-Vindo)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=631BA4&lines=Pode+chegando;Tenho+19+anos+e+estudo+Analise+de+Sistemas)](https://git.io/typing-svg)
  
 <div>
   <a href="https://github.com/abnerdavis">
