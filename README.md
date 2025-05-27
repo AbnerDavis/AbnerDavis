@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por automação de testes e qualidade de softwar
 ## 🛠 Ferramentas e Tecnologias
 
 <div align="center">
-  <img alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" width="48" height="48" />
+  <img alt="Cypress" width="40" height="40" src="https://github.com/AbnerDavis/AbnerDavis/blob/main/assets/cypress.svg" />
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
@@ -49,11 +49,6 @@ Sou um desenvolvedor apaixonado por automação de testes e qualidade de softwar
   />
 
 </div>
-
-
-
-
-
 
 ---
 
