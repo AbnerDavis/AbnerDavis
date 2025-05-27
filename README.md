@@ -81,3 +81,28 @@ Sou um desenvolvedor apaixonado por automação de testes e qualidade de softwar
 </div>
 
 ---
+
+<h3 align="center">🐶 Dog Runner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&vCenter=true&multiline=true&repeat=true&width=435&height=60&lines=Doggo+is+on+the+run...+💨🐾🐶" />
+</p>
+
+<p align="center" style="font-size: 20px;">
+  🐶💨🟩🟩🟩🟩🟩🟩🟩
+</p>
+
+<p align="center" style="font-size: 20px;">
+  🟩🟩🟩🟩💨🐶🟩
+</p>
+
+<p align="center" style="font-size: 20px;">
+  🟩🐶💨🟩🟩🟩🟩
+</p>
+
+<p align="center" style="font-size: 20px;">
+  🟩🟩🟩🟩🟩💨🐶
+</p>
+
+<p align="center"><sub>↻ Atualize a página para ver o Doggo correndo de novo</sub></p>
+
